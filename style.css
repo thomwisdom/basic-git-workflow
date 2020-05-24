@@ -1,8 +1,13 @@
-    body {
-        font-family: monospace;
-        color: navy;
-        padding: 40px;
-    }
-    .header {
-        font-weight: 500;
-    }
+body {
+    font-family: monospace;
+    color: navy;
+    padding: 40px;
+}
+
+.header {
+    font-weight: 500;
+}
+
+.hidden {
+display: none;
+}
